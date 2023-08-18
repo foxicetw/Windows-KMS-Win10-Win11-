@@ -1,0 +1,1 @@
+slmgr /skms zh.us.to
